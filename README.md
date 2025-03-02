@@ -12,12 +12,12 @@ making exploratory data analysis and advanced analysis on the data
 ## Known Bugs
 There are no known bugs at the time of completion
 ## Technologies Used
-Python 3.13
-Pandas module,
-Numpy module,
-mathplotlib module,
-seaborn module,
-ARIMA
+* Python 3.13
+* Pandas module
+* Numpy module
+* mathplotlib module
+* seaborn module
+* ARIMA
 
 ## Support and contact details
 Incase you run run into a problem  with the code, feel free to contact me on my email:- victormwenda30@gmail.com
