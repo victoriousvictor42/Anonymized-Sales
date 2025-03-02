@@ -13,11 +13,10 @@ making exploratory data analysis and advanced analysis on the data
 There are no known bugs at the time of completion
 ## Technologies Used
 Python 3.13
-Pandas module
-Numpy module
-scipy module
-mathplotlib module
-seaborn module
+Pandas module,
+Numpy module,
+mathplotlib module,
+seaborn module,
 ARIMA
 
 ## Support and contact details
